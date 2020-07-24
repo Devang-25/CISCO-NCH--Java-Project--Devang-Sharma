@@ -1,10 +1,4 @@
-# CISCO NCH -Java Project -Devang Sharma
-## Solution to CISCO NCH Java Project By Devang Sharma
-
-# Email: devangsharma419@gmail.com
-
-
-## Spring Boot Weather API and MongoDB
+# Spring Boot Weather API and MongoDB
 
 ### Prerequisites
   * JDK 1.8.X
@@ -27,13 +21,3 @@
   * Create records using Postman 
       ```POST /api/product```
   * Send a request to http://localhost:8081/
-
-### Concepts Used:
-  * Java based web applications, using web components, such as Servlets, Java Server Pages, HTML components, RESTful services, Forms and Validation, Page Navigation, Web Page design etc.ncepts Used:
-
-
-### Tomcat Version Used:
-  * Apache Tomcat Server: 10
-
-### API Used: 
-  * OpenWeatherMap
